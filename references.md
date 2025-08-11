@@ -1,3 +1,3 @@
-# References
+Merge confict
 
-* octocat 1 😈
+Merge confict
